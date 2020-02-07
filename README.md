@@ -1,2 +1,8 @@
-# ios_pitchPerfect_app
-"Hello World!" ios App connected with to MOOC "Intro to iOS App Development with Swift" Udacity course 
+# The "PitchPerfect" App
+
+Playground ios app related to the MOOC "Intro to iOS App Development with Swift" Udacity course (Swift, XCode). 
+
+## Goals
+
+- Overview of the Apple/ios ecosystem
+- Have fun building some new knowledge
